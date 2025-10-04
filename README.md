@@ -66,14 +66,5 @@ We use the **IMDB 50K Movie Reviews** dataset:
 
 ---
 
-## Libraries Used
-
-- pandas, numpy  
-- nltk (stopwords, SnowballStemmer)  
-- scikit-learn (TF-IDF, Logistic Regression, metrics)  
-- matplotlib, seaborn  
-- wordcloud  
-
----
 
 
